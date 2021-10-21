@@ -9,7 +9,7 @@
 
 ## Instruction to Run this program
 
-Run the commands belos:
+Run the commands below:
 
 -   php artisan migrate
 -   php artisan key:generate
